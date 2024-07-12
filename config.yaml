@@ -27,7 +27,7 @@ monitors:
   - id: nextcloud.zack20136.com
     name: nextcloud.zack20136.com
     description: 'NEXTCLOUD'
-    url: 'https://statuspage.zack20136.com/'
+    url: 'https://nextcloud.zack20136.com/login'
     method: GET
     expectStatus: 200
     linkable: true
