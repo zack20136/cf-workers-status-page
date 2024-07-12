@@ -29,5 +29,5 @@ monitors:
     description: 'NEXTCLOUD'
     url: 'https://nextcloud.zack20136.com'
     method: GET
-    expectStatus: 200
+    expectStatus: 302
     linkable: true # allows the title to be a link, default=true
