@@ -24,6 +24,15 @@ monitors:
   #   followRedirect: false # should fetch follow redirects, default=false
   #   linkable: false # allows the title to be a link, default=true
 
+  - id: statuspage.zack20136.com
+    name: statuspage.zack20136.com
+    description: 'Status Page'
+    url: 'https://statuspage.zack20136.com/'
+    method: GET
+    expectStatus: 200
+    followRedirect: false
+    linkable: false
+
   - id: nextcloud.zack20136.com
     name: nextcloud.zack20136.com
     description: 'NEXTCLOUD'
